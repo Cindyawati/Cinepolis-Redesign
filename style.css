@@ -1,0 +1,1071 @@
+.body {
+    font-family: 'Montserrat';
+    color: #08285B;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.header{
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.header .nav-item{
+    margin-left: 40px;
+}
+
+.header-menu{
+    margin-right: 60px;
+}
+
+.navbar-logo-container {
+    margin-top: 0px;
+    margin-left: 50px;
+}
+
+.navbar-logo {
+    width: auto;
+    height: 100px;
+}
+
+.jumbotron{
+    margin-top: 20px;
+    height: 300px;
+}
+
+.jumbotron .carousel-item{
+    height: 300px;
+}
+
+.title-indicator{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.now-showing{
+    margin-left: 5px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+/* Product View */
+.product-control{
+    float: right;
+    height: 30px;
+}
+
+.poster{
+    height: 60px;
+}
+
+.card-img-top{
+    height: 230px;
+}
+
+.card-title{
+    text-align: center;
+    display: block;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+}
+
+.card-age{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+}
+
+/*Get Our Apps */
+.get-our-apps {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.get-our-apps .banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+}
+
+/* Footer */
+
+.separator{
+    height: 3px;
+    background-color: #08285B;
+    margin-bottom: 25px;
+}
+
+.content{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.list-content{
+    font-size: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.copyright{
+    margin-top: 50px;
+    height: 30px;
+    background-color: #08285B;
+}
+
+.copyright-text{
+    font-size: 10px;
+    color: white;
+    margin-top: 8px;
+    margin-left: 5px
+}
+
+.store-logo{
+    height: 24px;
+}
+
+/* Movie Page */
+
+.movie-upcoming{
+    margin-bottom: 30px;
+}
+
+.category{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.category-upcoming{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.white-space-movie{
+    height: 30px;
+}
+
+/* Event & Promotions */
+
+.event{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.promotions{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-item .page-link{
+    color: #08285B;
+}
+
+.page-item.active .page-link{
+    border: #08285B;
+    background-color: #08285B;
+}
+
+.img-fluid.rounded-start{
+    padding: 20px 10px 20px 10px;
+}
+
+.event-thumbnail{
+    border: white;
+    height: 200px;
+    border-radius: 3%;
+}
+
+.event-body{
+    padding: 80px 30px 20px 20px;
+}
+
+.event-title{
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.title-link {
+    text-decoration: none;
+    color: #08285B;
+}
+
+.event-text{
+    font-size: 12px;
+    color: black;
+}
+
+.event-button{
+    margin-top: 20px;
+    background-color: #08285B;
+    border: #08285B;
+    color: white;
+    float: right;
+    font-size: 12px;
+}
+
+/* news */
+
+.news-thumbnail{
+    border: white;
+    width: 150px;
+    border-radius: 3%;
+}
+
+.news-body{
+    padding: 45px 30px 0px 20px;
+}
+
+.news-title{
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.news-text{
+    font-size: 12px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.news-button{
+    font-size: 12px;
+    margin-top: 20px;
+    background-color: #08285B;
+    border: #08285B;
+    color: white;
+    float: right;
+}
+
+.sosmed{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.twitter{
+    border-radius: 10%;
+}
+
+.head-twitter{
+    background-color: #009BCB;
+    color: white;
+}
+
+.head-facebook{
+    background-color: #3B5B98;
+    color: white;
+}
+
+.subscribe{
+    margin-top: 85px;
+    margin-bottom: 50px;
+}
+
+.subscribe-title{
+    font-weight: bolder;
+    color: #051838;
+    font-size: 24px;
+}
+
+.subscribe-detail{
+    font-size: 12px;
+    color: black;
+}
+
+.input-email{
+    border-color: #08285B;
+    border-radius: 6px;
+    width: 700px;
+    height: 40px;
+}
+
+.form-email{
+    margin-top: 30px;
+}
+
+.label-agree{
+    margin-left: 10px;
+    color: black;
+    font-size: 12px;
+}
+
+.email-button{
+    font-size: 12px;
+    background-color: #08285B;
+    border: #08285B;
+    color: white;
+    float: right;
+    font-weight: bolder;
+    width: 100px;
+}
+
+.search{
+    height: 80px;
+    background-color: #08285B;
+    border-radius: 2px;
+}
+
+.title-select-city{
+    font-size: 12px;
+    color: white;
+    font-weight: bolder;
+}
+
+.select-city-item{
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 5px 130px 5px 0px;
+}
+
+.select-class-item{
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 5px 130px 5px 0px;
+}
+
+.select{
+    margin-left: 10px;
+    padding: 9px 0;
+}
+
+.cinema-title{
+    font-size: 12px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.class-image{
+    height: 12px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.class-title{
+    font-size: 10px;
+    margin-right: 4px;
+}
+
+.cinema-button{
+    margin-top: 2px;
+    font-size: 12px;
+    background-color: #08285B;
+    border: #08285B;
+    color: white;
+    float: right;
+}
+
+.cinema-photo{
+    border-radius: 4%;
+    width: 500px;
+}
+
+.features-class{
+    font-size: 16px;
+    font-weight: bolder;
+    color: #08285B;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.feature-image{
+    height: 15px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.feature-title{
+    font-size: 12px;
+    margin-right: 4px;
+}
+
+.feature-body{
+    margin-left: 1px;
+}
+
+.cinema-description{
+    color: black;
+}
+
+.cinema-description p{
+    color: black;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.cinema-description .cinema-name{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #08285B;
+    margin-bottom: 20px;
+}
+
+.cinema-description .title{
+    font-size: 14px;
+    font-weight: bolder;
+    color: #08285B;
+}
+
+.desc{
+    margin-bottom: 15px;
+}
+
+.desc p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.cinema-description .price-title{
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: bolder;
+    color: #08285B;
+}
+
+.cinema-description li{
+    font-size: 14px;
+    color: black;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.not-found{
+    margin-left: 6px;
+    margin-top: 20px;
+    font-weight: bolder;
+    color: black;
+}
+
+.event-photo{
+    margin-left: 40px;
+    padding: 0px 60px 0px 40px;
+    width: 400px;
+}
+
+.link-movie-title{
+    text-decoration: none;
+    color: #08285B;
+}
+
+/*Jumbotron*/
+
+.jumbotron-detail{
+    margin-top: 20px;
+    height: 250px;
+    width: 1120px;
+    color: white;
+}
+
+.ambulance{
+    background-image:url("../cinepolis/asset/moviesbanner/ambulance.png");
+}
+
+.gariswaktu{
+    background-image:url("../cinepolis/asset/moviesbanner/gariswaktu.png");
+}
+
+.jujutsukaisen{
+    background-image:url("../cinepolis/asset/moviesbanner/jujutsukaisen.png");
+}
+
+.moonfall{
+    background-image:url("../cinepolis/asset/moviesbanner/moonfall.png");
+}
+
+.sing{
+    background-image:url("../cinepolis/asset/moviesbanner/sing.png");
+}
+
+.thebatman{
+    background-image:url("../cinepolis/asset/moviesbanner/thebatman.png");
+}
+
+.theotherside{
+    background-image:url("../cinepolis/asset/moviesbanner/theotherside.png");
+}
+
+.uncharted{
+    background-image:url("../cinepolis/asset/moviesbanner/uncharted.png");
+}
+
+/*upcoming*/
+
+.doctorstrange{
+    background-image:url("../cinepolis/asset/moviesbanner/docterstrange.png");
+}
+
+.dominion{
+    background-image:url("../cinepolis/asset/moviesbanner/dominion.png");
+}
+
+.fantasticbeats{
+    background-image:url("../cinepolis/asset/moviesbanner/fantasticbeats.png");
+}
+
+.movies-detail{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.banner-title{
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.banner-title-long{
+    font-size: 22px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.movie-mini-desc{
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.star {
+    color: orange;
+}
+
+.starring{
+    font-size: 16px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+/* poster section */
+
+.poster-detail{
+    width: 230px;
+    border-radius: 4%;
+    margin-top: 65px;
+}
+
+/* sypnosis section */
+
+.sypnosis-title{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #08285B;
+}
+
+.movie-description{
+    margin-top: 20px;
+    color: black;
+    font-size: 14px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 25px;
+}
+
+.sypnosis-section{
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.sypnosis-section p{
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+/*trailer section*/
+
+.trailer{
+    margin-top: 20px;
+}
+
+.trailer-title{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+
+.div-round {
+    margin-left: 15px;
+    width: 250px;
+    overflow: hidden;
+    position: relative;
+    z-index: 10;
+    -webkit-border-radius: 5px 5px;
+    border-radius: 5px 5px;
+}
+
+.moviesdetail-now-showing{
+    margin-bottom: 40px;
+}
+
+/* Schedule */
+
+.schedule-section{
+    margin-bottom: 30px;
+}
+
+.schedule-category{
+    height: 30px;
+    width: auto;
+    background-color: #08285B;
+    border-radius: 4px;
+}
+
+.schedule-category p{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.section-movie{
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.schedule-item{
+    margin-top: 30px;
+}
+
+.schedule-button{
+    background-color: #DE6F13;
+    border: 2px solid #DE6F13;
+    border-color: #DE6F13;
+    color: white;
+    font-size: 12px;
+}
+
+.schedule-button:hover{
+    background-color: #7c4314;
+    border: 2px solid #7c4314;
+    border-color: #7c4314;
+    color: white;
+    font-size: 12px;
+}
+
+.schedule-button p{
+    margin: 0px;
+}
+
+.schedule-button-unavailable{
+    background-color: #353535;
+    border: 2px solid #353535;
+    border-color: #353535;
+    color: rgb(179, 179, 179);
+    font-size: 12px;
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.schedule-button-unavailable p{
+    margin: 0px;
+}
+
+.schedule-movie-title{
+    font-weight: bolder;
+}
+
+.schedule-cinema-class{
+    font-size: 14px;
+    color: black;
+    margin-bottom: 6px;
+}
+
+/* Select Seat */
+
+.section-screen{
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.section-screen p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 14px;
+    color: black;
+}
+
+.screen{
+    background-color: #554242;
+    height: 20px;
+    width: auto;
+    border-radius: 4px;
+}
+
+.group-seat{
+    margin: auto;
+}
+
+.groupb{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.groupa{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 2px;
+}
+
+.seat-button{
+    background-color: white;
+    border: 1px solid black;
+    border-color: black;
+
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.seat-button:hover{
+    background-color: #0b3372;
+    border: 1px solid #0b3372;
+    border-color: #0b3372;
+
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.takenseat-button{
+    background-color: #DAD5D5;
+    border: 1px solid #DAD5D5;
+    border-color: #DAD5D5;
+
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    text-align: center;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 4px;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.notavailseat-button{
+    background-color: #545454;
+    border: 1px solid #545454;
+    border-color: #545454;
+
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    text-align: center;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 4px;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.selected-seat-button{
+    background-color: #08285B;
+    border: 1px solid black;
+    border-color: black;
+
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: white;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.seat-not-avail{
+    background-color: #545454;
+    border: 1px solid #545454;
+    border-color: #545454;
+
+    height: 20px;
+    width: 20px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.seat-avail{
+    background-color: white;
+    border: 1px solid black;
+    border-color: black;
+
+    height: 20px;
+    width: 20px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.seat-selected{
+    background-color: #08285B;
+    border: 1px solid #08285B;
+    border-color: #08285B;
+
+    height: 20px;
+    width: 20px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.seat-taken{
+    background-color: #DAD5D5;
+    border: 1px solid #DAD5D5;
+    border-color: #DAD5D5;
+
+    height: 20px;
+    width: 20px;
+    
+    border-radius: 4px;
+    margin: 5px;
+    
+    color: black;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.seat-category{
+    margin-top: 20px;
+}
+
+.seat-category-container{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.seat-category-title{
+    margin-right: 100px;
+}
+
+.seat-category-title p{
+    width: 100px;
+    text-align: left;
+    margin-top: 2px;
+    margin-left: 26px;
+    color: black;
+    font-size: 10px;
+}
+
+.youarewatching-titlecontainer{
+    background-color: #08285B; 
+    color: white; 
+    font-weight:bolder;
+    height: 34px;
+}
+
+.youarewatching-title{
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+.youarewatching-detail{
+    font-weight: bolder;
+    margin-top: 12px;
+    margin-left: 35px;
+    font-size: 10px;
+    margin-bottom: 4px;
+}
+
+.youarewatching-detail p{
+    margin-bottom: 4px;
+}
+
+.detail-black p{
+    color: black;
+}
+
+.note p{
+    margin-left: 22px;
+    font-size: 12px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.note-title{
+    margin-top: 10px;
+    margin-left: 22px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.container-button-order{
+    float: right;
+    padding-right: 35px;
+    margin-top: 12px;
+}
+
+.order-button{
+    width: auto;
+    margin-top: 20px;
+    background-color: #08285B;
+    border: #08285B;
+    color: white;
+    float: right;
+    font-size: 14px;
+}
+
+.timer{
+    margin-bottom: 20px;
+    margin-left: 22px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.countdown{
+    font-size: 22px;
+}
+
+.details-explanation{
+    font-size: 12px;
+    color: black;
+    margin-left: 22px;
+}
+
+.form-detail{
+    margin-left: 22px;
+}
+
+.agreement{
+    margin-top: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+    color: #08285B;
+}
+
+.form-check-label{
+    font-size: 14px;
+}
+
+.digicert{
+    margin-top: 5px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.caption {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.final-payment-button{
+    margin-top: 30px;
+    margin-right: 2px;
+    background-color: #08285B;
+    border: #08285B;
+    color: white;
+    float: right;
+    font-size: 14px;
+    width: 180px;
+}
+
+.order-complete{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.checklist-rounded{
+    height: 90px;
+}
+
+.confirm-text{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.confirm-text p{
+    margin: 0px;
+}
+
+.confirm-complete{
+    color: #08285B;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.please-check{
+    padding-left: 4px;
+    font-size: 14px;
+    color: black;
+}
+
+.header{
+    position: static;
+}
+
+.blank-space{
+    height: 250px;
+}
+
+.to-schedule{
+    background-color: #0b3372;
+    border: 1px solid #0b3372;
+    border-color: #0b3372;
+    
+    border-radius: 4px;
+    padding: 8px;
+
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+}
